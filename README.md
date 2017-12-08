@@ -1,5 +1,5 @@
 # Introduction
-Welcome to Spring Microservices in Action, Chapter 10. Chapter 10 is the end of the book and demonstrates how to create a build and deployment pipeline.  We walkthrough how to build this pipeline and then deploy all of the services to Amazon's Elastic Container Service (ECS).
+ Welcome to Spring Microservices in Action, Chapter 10. Chapter 10 is the end of the book and demonstrates how to create a build and deployment pipeline.  We walkthrough how to build this pipeline and then deploy all of the services to Amazon's Elastic Container Service (ECS).
 
 By the time you are done reading this chapter you will have built and/or deployed:
 
